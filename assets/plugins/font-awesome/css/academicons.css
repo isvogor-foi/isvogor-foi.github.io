@@ -15,12 +15,13 @@
     font-style: normal;
 }
 .ai {
-	display:inline-block;
+	display: block;
 	font:normal normal normal 14px/1 Academicons;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
+	padding-top: 15px;
 }
 .ai-google-scholar:before {
     content: "\e900";
